@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Airbnb-Clone/static/css/main.27ce2b6a.css",
+    "main.js": "/Airbnb-Clone/static/js/main.73bc2799.js",
+    "static/media/airbnb.png": "/Airbnb-Clone/static/media/airbnb.1709132a70651fd93676.png",
+    "static/media/camping.png": "/Airbnb-Clone/static/media/camping.66693d1b613d208f112e.png",
+    "static/media/farm.png": "/Airbnb-Clone/static/media/farm.05502df9a7ab55969427.png",
+    "static/media/google.png": "/Airbnb-Clone/static/media/google.22e5b274066344dbef51.png",
+    "static/media/skiing.png": "/Airbnb-Clone/static/media/skiing.ca3d4c710627665287fc.png",
+    "static/media/user.png": "/Airbnb-Clone/static/media/user.70639ae43395084fc077.png",
+    "static/media/mobile.png": "/Airbnb-Clone/static/media/mobile.71cccffd3644c1688548.png",
+    "static/media/house.png": "/Airbnb-Clone/static/media/house.c735a6281d0581d28bb3.png",
+    "static/media/apple.png": "/Airbnb-Clone/static/media/apple.8dcccfa37bfa46619993.png",
+    "static/media/mansions.png": "/Airbnb-Clone/static/media/mansions.d865383d8db483631ab9.png",
+    "static/media/mail.png": "/Airbnb-Clone/static/media/mail.49c61e7e311a85ec7080.png",
+    "static/media/close.png": "/Airbnb-Clone/static/media/close.f6818902173587524aff.png",
+    "static/media/facebook.png": "/Airbnb-Clone/static/media/facebook.be7661e1b06f04076e1b.png",
+    "static/media/swimming-pool.png": "/Airbnb-Clone/static/media/swimming-pool.9508f6ef4d0c3346051e.png",
+    "static/media/cabin.png": "/Airbnb-Clone/static/media/cabin.4d4b6e5741287b94f20e.png",
+    "index.html": "/Airbnb-Clone/index.html",
+    "main.27ce2b6a.css.map": "/Airbnb-Clone/static/css/main.27ce2b6a.css.map",
+    "main.73bc2799.js.map": "/Airbnb-Clone/static/js/main.73bc2799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ce2b6a.css",
+    "static/js/main.73bc2799.js"
+  ]
+}
